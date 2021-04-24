@@ -18,10 +18,10 @@
     "xml2js": "^0.4.1"
   },
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "3.x"
   },
   "devDependencies": {
-    "hubot": "2.x"
+    "hubot": "3.x"
   },
   "main": "index.coffee",
   "scripts": {
